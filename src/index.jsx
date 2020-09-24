@@ -30,8 +30,6 @@ console.log( typeof document.getElementById('app'))
 
 render((<App />), document.getElementById('app'))
 
-render(<App />, document.querySelector("#root"));
-
 console.log(post.toString(), 'Post to string');
 
 console.log('JSON:',json)
