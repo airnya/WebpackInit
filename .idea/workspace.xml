@@ -20,33 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abc6a007-0180-4e50-9aa4-921936afe10b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ChinaNumberOne.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/WebpackLearn.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Professional.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/03523cf578d69fa923226ff457b92d90.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/analytics.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/analytics.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/d70f7d7d28efcb164c8f86cf5113f1ca.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/main.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/main.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/vendors~analytics~main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/vendors~analytics~main.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/vendors~main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/vendors~main.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/vendors~main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/vendors~main.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/_normalize.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/_normalize.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/_normalize.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/nullstyle.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/scss.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/styles.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +62,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600960216800</updated>
-      <workItem from="1600960222415" duration="924000" />
+      <workItem from="1600960222415" duration="1518000" />
+      <workItem from="1600965483837" duration="667000" />
+      <workItem from="1601022764514" duration="1169000" />
     </task>
     <servers />
   </component>
@@ -101,5 +81,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601023166130">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601023166130" />
   </component>
 </project>
